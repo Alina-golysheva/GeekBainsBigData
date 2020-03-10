@@ -10,7 +10,7 @@
 my_list = [10, 9, 8, 7, 1]
 
 print(my_list)
-r1 =  input("введите число:")
+r1 = input("Введите число:")
 r = int(r1)
 c = my_list.count(r)
 for el in my_list:
