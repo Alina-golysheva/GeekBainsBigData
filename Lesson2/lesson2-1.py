@@ -6,7 +6,7 @@ a = 234
 b = 3.141928
 c = "Собака"
 my_list = [a, b, c]
-for el in reversed(my_list):
+for el in my_list:
     print(type(el))
 
 
